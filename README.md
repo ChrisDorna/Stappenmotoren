@@ -10,3 +10,6 @@ Presentatie stappenmotoren 15-10-2024
 + Pico: https://www.teachmemicro.com/raspberry-pi-pico-l298n-motor-control/  
 + Arduino: https://newbiely.com/tutorials/arduino-nano/arduino-nano-stepper-motor
 + Micro:bit: https://makecode.microbit.org/_bxdg7q5wUPF8 (voor gebruik met DFRobot driver) 
+
+**TB6600**  
++ https://wiki.dfrobot.com/TB6600_Stepper_Motor_Driver_SKU__DRI0043
