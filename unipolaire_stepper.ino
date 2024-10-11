@@ -1,8 +1,8 @@
-int blauw = 9;
-int roze = 10; //groen
-int geel = 11;
-int oranje = 12;
-int pauze = 1000;
+int blauw = 8;
+int roze = 9;
+int geel = 10;
+int oranje = 11;
+int pauze = 5;
 
 void setup() {
   pinMode(blauw, OUTPUT);
