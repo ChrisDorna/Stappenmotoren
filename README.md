@@ -14,7 +14,7 @@ Presentatie stappenmotoren 15-10-2024
 + Pico: https://www.teachmemicro.com/raspberry-pi-pico-l298n-motor-control/  
 + Arduino: https://coeleveld.com/arduino-stepper-l298n/
     + Let op: Aansluitschema klopt niet (komt vaak voor bij stappenmotoren)
-    + ![Alt-tekst voor de afbeelding](URL-van-de-afbeelding)
+    + ![Alt-tekst voor de afbeelding](https://github.com/ChrisDorna/Stappenmotoren/blob/main/juiste_aansluitingen.png)
    
 + Micro:bit: https://makecode.microbit.org/_bxdg7q5wUPF8 (voor gebruik met DFRobot driver) 
 
