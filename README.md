@@ -1,5 +1,8 @@
 # Stappenmotoren
 Presentatie stappenmotoren 15-10-2024  
++ https://docs.google.com/presentation/d/13FgpJ5e4xrJk3htCoeOO4oV3n7G0efAwHCp7dnbfsrg/edit?usp=sharing
+
+  
 **Unipolaire stappenmotor (ULN2003)**   
 + Pico: https://randomnerdtutorials.com/raspberry-pi-pico-stepper-motor-micropython/  
 + Arduino: https://github.com/ChrisDorna/Stappenmotoren/blob/main/unipolaire_stepper.ino  
