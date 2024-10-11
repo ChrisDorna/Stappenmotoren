@@ -13,7 +13,9 @@ Presentatie stappenmotoren 15-10-2024
 **Bipolaire stappenmotor (L298N)**  
 + Pico: https://www.teachmemicro.com/raspberry-pi-pico-l298n-motor-control/  
 + Arduino: https://coeleveld.com/arduino-stepper-l298n/
-    + Let op: Aansluitschema klopt niet (komt vaak voor bij stappenmotoren)    
+    + Let op: Aansluitschema klopt niet (komt vaak voor bij stappenmotoren)
+    + ![Alt-tekst voor de afbeelding](URL-van-de-afbeelding)
+   
 + Micro:bit: https://makecode.microbit.org/_bxdg7q5wUPF8 (voor gebruik met DFRobot driver) 
 
 **TB6600**  
